@@ -2,6 +2,14 @@
 
 #### Computer Science at the Universtiy of Washington Bothell, Integration Engineer Intern at Altec Inc.
 
+<h1 align="center">Hi, my name is Kylun 👋</h1>
+<h3 align="center">Computer Science at UWB, Integration Engineer Intern at Altec Inc.</h3>
+<p align center>
+    - ⚡ I'm currently working at Altec Inc.
+    - 💬 Ask me about my projects, internships, or coursework
+    - 📫 How to reach me: kylun.robbins@gmail.com or <a href="" target="_blank">LinkedIn<a>
+</p>
+
 
 
 <!--
