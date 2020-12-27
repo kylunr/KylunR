@@ -1,7 +1,3 @@
-### Hi, my name is Kylun 👋
-
-#### Computer Science at the Universtiy of Washington Bothell, Integration Engineer Intern at Altec Inc.
-
 <h1 align="center">Hi, my name is Kylun 👋</h1>
 <h3 align="center">Computer Science at UWB, Integration Engineer Intern at Altec Inc.</h3>
 <p align center>
