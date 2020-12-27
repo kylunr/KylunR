@@ -1,6 +1,6 @@
 ### Hi, my name is Kylun 👋
 
-## Computer Science at the Universtiy of Washington Bothell, Integration Engineer Intern at Altec Inc.
+#### Computer Science at the Universtiy of Washington Bothell, Integration Engineer Intern at Altec Inc.
 
 
 
