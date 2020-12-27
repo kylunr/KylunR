@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is Kylun 👋
+
+## Computer Science at the Universtiy of Washington Bothell, Integration Engineer Intern at Altec Inc.
+
+
 
 <!--
 **KylunR/KylunR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
