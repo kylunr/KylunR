@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Kylun 👋</h1>
-<h3 align="center">Computer Science at UWB, Software Engineer at Altec Inc.</h3>
+<h3 align="center">, Software Engineer at Seagull Scientific, Computer Science at UWB</h3>
 <p align="center">
-    - ⚡ I'm currently working at Altec Inc.<br>
+    - ⚡ I'm currently working at Seagull Scientific<br>
     - 💬 Ask me about my projects, experience, or coursework<br>
     - 📫 How to reach me: kylun.robbins@gmail.com or <a href="" target="_blank">LinkedIn<a><br>
 </p>
