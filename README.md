@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Kylun 👋</h1>
-<h3 align="center">, Software Engineer at Seagull Scientific, Computer Science at UWB</h3>
+<h3 align="center">Software Engineer at Seagull Scientific, Computer Science at UWB</h3>
 <p align="center">
     - ⚡ I'm currently working at Seagull Scientific<br>
     - 💬 Ask me about my projects, experience, or coursework<br>
